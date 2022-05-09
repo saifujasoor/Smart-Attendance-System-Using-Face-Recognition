@@ -103,3 +103,22 @@ train the CNN on a large dataset, which is computationally expensive and takes a
 trained and tested on a small dataset, the team was unable to get accurate results. Hence, for this
 project, the team decided to use pre- trained CNNs to extract encodings from images.
 
+## Tabular Representation of Attendance Data
+The application provides the admin with the feature to view attendance reports, where in attendance
+data is displayed as tables. This is achieved via Django’s ORM and Templating Language.
+Data is fetched from the attendance database in the form of query sets, making use of Django’s ORM.
+These query sets are then passed to the template (HTML) files using Django’s templating language.
+These query sets can be displayed as a table by using the {% for tag %} of the templating language for
+displaying rows and outputting each attribute of the object in a different table cell (column).
+![image](https://user-images.githubusercontent.com/76810003/167387522-0773acd4-58f4-4bd3-bc37-b5904a1e3e0b.png)
+- A Seaborn bar plot demonstrating the number of hours worked by each employee on a particular
+date is displayed in the following figure.
+![image](https://user-images.githubusercontent.com/76810003/167387617-e403ef1a-dd3d-4f12-8b0c-804f5bc27284.png)
+
+- A Seaborn line plot demonstrating the number of hours worked by a particular employee for a range
+of dates is displayed in the following figure. Note that it allows easy visualization of the weekly
+minimum.
+![image](https://user-images.githubusercontent.com/76810003/167387712-81b42f7c-03ca-4cf0-bf1c-9ef554842195.png)
+
+
+
