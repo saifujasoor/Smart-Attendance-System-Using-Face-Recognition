@@ -1,5 +1,4 @@
-# Smart-Attendance-System-Using-Face-Recognition
-
+# Smart Attendance System Using Face Recognition
 Smart Attendance System using Face Recognition(SASUFR) web application demonstrating the use of facial recognition for marking attendance built as a part of my  master's degree thesis. It is a web application that can be used by the company to manage attendance of its employees. Face Recognition is a biometric method of identifying an individual by comparing live capture or digital image data with the stored record for that person.
 Smart Attendance System is marking of attendance based on this technology, which provides an automated attendance system that is practical, reliable and eliminate disturbance and time loss of traditional attendance systems.
 
@@ -120,5 +119,16 @@ of dates is displayed in the following figure. Note that it allows easy visualiz
 minimum.
 ![image](https://user-images.githubusercontent.com/76810003/167387712-81b42f7c-03ca-4cf0-bf1c-9ef554842195.png)
 
+## Future Enhancements
+1. A feature which can give intruder alert can be included in the system. Furthermore, the images of
+unknown people can be saved in an efficient manner and displayed in the system for better security.
+2. The number of training images can be reduced so that less storage is required. This can be done by
+removing duplicate images of the same person, or images with similar embeddings.
+3. The training time can be reduced by retraining the classifier only for the newly added images.
+4. A feature can be added where an employee is automatically sent a warning if his attendance or
+working hours are below the threshold.
+5. Wrongly classified images can be added to the training dataset with the correct label so as to
+increase the accuracy of the recognition model.
 
+# Project Demo
 
