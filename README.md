@@ -64,7 +64,8 @@ project for interaction between the view and the templates.
 
 ## Face Detection
 - Dlib's HOG facial detector.
-### HOG is a feature descriptor used in computer vision and image processing for the purpose of object
+### Histogram of Oriented Gradients (HOG) detector
+HOG is a feature descriptor used in computer vision and image processing for the purpose of object
 detection. It works on the concept of finding gradients along the x and y-axis. These gradients are
 added vectorially and information such as magnitude and direction of the gradients are extracted
 forming edges in the image. Now the whole gradient image is divided into 8*8- dimension matrix i.e.
@@ -90,24 +91,15 @@ operations using the point coordinates. The operations performed for facial alig
 3) Translation, such that the image is centred
 In this project, 68 points facial landmark predictor is used. The results can be seen in the following
 figure :- 
-![face-align](https://user-images.githubusercontent.com/76810003/167383514-f7710d34-7068-49e8-a144-d7a149e9c08d.png)
 
-### Extraction of Facial Embeddings
-- face_recognition by Adam Geitgey
+![align](https://user-images.githubusercontent.com/76810003/167385801-047c1288-880f-40cf-8159-b58546cd4b61.png)
 
-### Classification of Unknown Embedding 
-- using a Linear SVM (scikit-learn)
+# Training and Testing
+Once the CNN is built, it is trained on a number of classes, each having several training images. Once
+trained with images and associated labels, the CNN is expected to predict the associated label for an
+unknown image input.The training time of the CNN depends on the number of training images, the
+size of the batch, the number of times epochs, etc. In order to obtain high accuracy, it is necessary to
+train the CNN on a large dataset, which is computationally expensive and takes a lot of time. When
+trained and tested on a small dataset, the team was unable to get accurate results. Hence, for this
+project, the team decided to use pre- trained CNNs to extract encodings from images.
 
-### Face Detection
-- Dlib's HOG facial detector.
-
-### Facial Landmark Detection
-- Dlib's 68 point shape predictor
-
-### Extraction of Facial Embeddings
-- face_recognition by Adam Geitgey
-
-### Classification of Unknown Embedding 
-- using a Linear SVM (scikit-learn)
-
-The application was tested on data from 25 employees at ViitorCloud Technologies, Ahmedabad.
