@@ -132,3 +132,69 @@ increase the accuracy of the recognition model.
 
 # Project Demo
 
+## Emplyee Home page
+
+![home](https://user-images.githubusercontent.com/76810003/169558514-e393a6f6-fdf4-48ea-86c0-c15a2648dad0.png)
+
+
+## Emplyee Dashboard
+
+![user_dashboard](https://user-images.githubusercontent.com/76810003/169558550-7882aa04-44ef-4f02-b5d7-345b21e74411.png)
+
+
+## Admin Dashboard
+
+![admin_dashboard](https://user-images.githubusercontent.com/76810003/169558603-0e3889d7-b5c9-41b1-8e22-037e01d779c6.png)
+
+
+## Attendance Report
+
+![report](https://user-images.githubusercontent.com/76810003/169558678-d1525f8a-8b39-4f39-bab3-db64db187874.png)
+![report bydate](https://user-images.githubusercontent.com/76810003/169558694-fd3294fd-103d-4d24-929c-a30e1cc52391.png)
+![by-date](https://user-images.githubusercontent.com/76810003/169558764-83281901-abbb-495a-9000-1cccdb1e7eb5.png)
+
+
+## Data Traning 
+
+![training process](https://user-images.githubusercontent.com/76810003/169558818-47fe532f-daf1-44bf-b879-a0c6c3f03591.png)
+
+
+## Django Administration Dashboard
+
+![backend-dashboard](https://user-images.githubusercontent.com/76810003/169559016-ecfdf82b-92e8-42dd-9044-70e58ad2a9ff.png)
+
+# Sources
+
+```
+blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html
+krasserm.github.io/2018/02/07/deep-face-recognition/
+medium.com/@krsatyam1996/face-recognition-using-openface-92f02045ca2a
+www.learnopencv.com/histogram-of-oriented-gradients
+towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989
+www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python
+us.norton.com/internetsecurity-iot-how-facial-recognition-software-works.html
+ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets
+```
+
+
+## Author
+
+<table>
+<tr>
+<td>
+
+     <img src="https://user-images.githubusercontent.com/76810003/169560636-a8c87af2-09a6-4a72-8dc3-73ce38449c9f.jpg" width="180"/>
+     
+     Saifullah Rahimi
+
+<p align="center">
+<a href = "https://github.com/saifujasoor"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/saifullahrahimi/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+
+
+
+
