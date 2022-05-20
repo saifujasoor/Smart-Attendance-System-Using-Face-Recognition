@@ -182,7 +182,7 @@ increase the accuracy of the recognition model.
 <tr>
 <td>
 
-     <img src="https://user-images.githubusercontent.com/76810003/169560636-a8c87af2-09a6-4a72-8dc3-73ce38449c9f.jpg" width="180"/>
+     <img src="https://avatars.githubusercontent.com/u/76810003?s=400&u=3de867a69316245acd6e93279367fc2a37a6dd14&v=4" width="180"/>
      
      Saifullah Rahimi
 
