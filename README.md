@@ -181,7 +181,6 @@ increase the accuracy of the recognition model.
 <table>
 <tr>
 <td>
-
      <img src="https://avatars.githubusercontent.com/u/76810003?s=400&u=3de867a69316245acd6e93279367fc2a37a6dd14&v=4" width="180"/>
      
      Saifullah Rahimi
