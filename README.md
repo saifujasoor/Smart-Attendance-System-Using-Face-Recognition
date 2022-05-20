@@ -166,14 +166,13 @@ increase the accuracy of the recognition model.
 # Sources
 
 ```
-blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html
-krasserm.github.io/2018/02/07/deep-face-recognition/
-medium.com/@krsatyam1996/face-recognition-using-openface-92f02045ca2a
-www.learnopencv.com/histogram-of-oriented-gradients
-towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989
-www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python
-us.norton.com/internetsecurity-iot-how-facial-recognition-software-works.html
-ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets
+1. blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html
+2. krasserm.github.io/2018/02/07/deep-face-recognition/
+3. medium.com/@krsatyam1996/face-recognition-using-openface-92f02045ca2a
+4. www.learnopencv.com/histogram-of-oriented-gradients
+5. towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989
+6. www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python
+7. us.norton.com/internetsecurity-iot-how-facial-recognition-software-works.html
 ```
 
 
