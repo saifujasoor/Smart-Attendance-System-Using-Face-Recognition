@@ -102,6 +102,37 @@ train the CNN on a large dataset, which is computationally expensive and takes a
 trained and tested on a small dataset, the team was unable to get accurate results. Hence, for this
 project, the team decided to use pre- trained CNNs to extract encodings from images.
 
+
+# Getting Started
+## Prerequisites
+Make sure you have Python, OpenCV, Flask and PIL installed on your system to run this project.
+
+## Execution guide
+- Download the contents of the repository.
+- Make sure the necessary prerequisites are installed on your system.
+- To install requirements  prerequisites of the project, simply type the following command :
+```
+pip3 install -r requirements.txt
+```
+
+- Type the following command inside the directory on your terminal to run the project.
+```
+python3 manage.py runserver
+```
+
+
+- Click http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+- Click the login button and enter the following details
+
+```
+Login Username :admin 
+Password : admin
+
+```
+
+
+
 ## Tabular Representation of Attendance Data
 The application provides the admin with the feature to view attendance reports, where in attendance
 data is displayed as tables. This is achieved via Django’s ORM and Templating Language.
